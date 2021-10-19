@@ -10,3 +10,5 @@ IR_One_LED.ino - this is an example file I created quickly, as I was not able to
 
 Reference Links:-
 Ir receiver - https://youtu.be/3jeSfsnQOWk
+
+I've also added a screenshot for circuit connections (replace LEDs with Relay Switch to control AC appliances

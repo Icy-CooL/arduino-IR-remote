@@ -7,3 +7,6 @@ Decode_IR.ino - upload this sketch into arduino board with proper connection acc
 IR_One_LED.ino - this is an example file I created quickly, as I was not able to find original file
                 replace the numericaal values with yours as you noted down earlier
                 do whatever task you want within if(result.value== ){   } and have fun :)
+
+Reference Links:-
+Ir receiver - https://youtu.be/3jeSfsnQOWk
